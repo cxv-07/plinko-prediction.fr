@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://plinko-prediction.fr/demo/</loc>
+    <loc>http://localhost:1313/demo/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/politique-de-cookies/</loc>
+    <loc>http://localhost:1313/politique-de-cookies/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/a-propos-de-nous/</loc>
+    <loc>http://localhost:1313/a-propos-de-nous/</loc>
     <lastmod>2025-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/contacts/</loc>
+    <loc>http://localhost:1313/contacts/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/1xbet/</loc>
+    <loc>http://localhost:1313/1xbet/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/app/</loc>
+    <loc>http://localhost:1313/app/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/termes-et-conditions/</loc>
+    <loc>http://localhost:1313/termes-et-conditions/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/jeu-raisonne/</loc>
+    <loc>http://localhost:1313/jeu-raisonne/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/1win/</loc>
+    <loc>http://localhost:1313/1win/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/stake/</loc>
+    <loc>http://localhost:1313/stake/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/pratique-de-jeu-raisonnee/</loc>
+    <loc>http://localhost:1313/pratique-de-jeu-raisonnee/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plinko-prediction.fr/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://plinko-prediction.fr/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

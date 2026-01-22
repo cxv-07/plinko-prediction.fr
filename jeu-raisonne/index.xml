@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeu responsable dans les casinos en ligne : principes clés on Plinko-prediction</title>
-    <link>http://plinko-prediction.fr/jeu-raisonne/</link>
+    <link>http://localhost:1313/jeu-raisonne/</link>
     <description>Recent content in Jeu responsable dans les casinos en ligne : principes clés on Plinko-prediction</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://plinko-prediction.fr/jeu-raisonne/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jeu-raisonne/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
